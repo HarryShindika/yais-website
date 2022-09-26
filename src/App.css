@@ -1,0 +1,14 @@
+@media screen and (max-width: 400px) {
+  #about,
+  #sponsors,
+  #agenda,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #labs {
+    width: 110%;
+  }
+}
