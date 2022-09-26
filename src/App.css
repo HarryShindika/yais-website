@@ -6,9 +6,11 @@
   #contact,
   #footer {
     width: 111%;
+    /* width: 111%; */
   }
 
   #labs {
     width: 110%;
+    /* width: 110%; */
   }
 }
