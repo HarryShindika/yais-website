@@ -242,7 +242,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/yais-bg.png) center center no-repeat;
+  background: url(../img/background/yais-bg.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
