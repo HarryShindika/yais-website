@@ -16,7 +16,7 @@ export const Sponsors = (props) => {
                     className="col-md-4"
                   >
                     <div className="polaroid">
-                      <img src={d.image} />
+                      <img src={d.image} alt="sponsor" />
                       <div
                         className="service-desc"
                         style={{

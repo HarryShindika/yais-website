@@ -129,7 +129,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; 2022 Assembled by&nbsp;
-            <a href="http://www.harryshindika.com" target="_blank">
+            <a href="http://www.harryshindika.com" rel="noreferrer" target="_blank">
               Harry A Shindika
             </a>
           </p>

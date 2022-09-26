@@ -1,5 +1,3 @@
-import { Image } from "./image";
-
 export const Labs = (props) => {
   return (
     <div id="labs" className="text-center">
