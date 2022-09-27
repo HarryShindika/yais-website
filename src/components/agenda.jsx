@@ -14,7 +14,7 @@ export const Agenda = (props) => {
                   <div key={`${d.name}-${i}`} className="row">
                     <div className="agenda">
                       <div className="agenda-image">
-                        {/* <img
+                        <img
                           // style={{
                           //   paddingBottom: "0px",
                           //   position: "relative",
@@ -22,7 +22,7 @@ export const Agenda = (props) => {
                           // }}
                           src={d.img}
                           alt=""
-                        /> */}
+                        />
                       </div>
                     </div>
                   </div>
