@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yais-website/static/css/main.230eca18.chunk.css",
+    "main.js": "/yais-website/static/js/main.caada094.chunk.js",
+    "main.js.map": "/yais-website/static/js/main.caada094.chunk.js.map",
+    "runtime-main.js": "/yais-website/static/js/runtime-main.6d57ce27.js",
+    "runtime-main.js.map": "/yais-website/static/js/runtime-main.6d57ce27.js.map",
+    "static/js/2.f0742ee7.chunk.js": "/yais-website/static/js/2.f0742ee7.chunk.js",
+    "static/js/2.f0742ee7.chunk.js.map": "/yais-website/static/js/2.f0742ee7.chunk.js.map",
+    "index.html": "/yais-website/index.html",
+    "static/css/main.230eca18.chunk.css.map": "/yais-website/static/css/main.230eca18.chunk.css.map",
+    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/yais-website/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d57ce27.js",
+    "static/js/2.f0742ee7.chunk.js",
+    "static/css/main.230eca18.chunk.css",
+    "static/js/main.caada094.chunk.js"
+  ]
+}
